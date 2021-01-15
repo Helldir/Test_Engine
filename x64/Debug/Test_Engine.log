@@ -1,0 +1,5 @@
+﻿  Test_Overheat.cpp
+C:\Programming\Test_Engine\Test_Engine\src\Test_Overheat.cpp(28,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Programming\Test_Engine\Test_Engine\src\Test_Overheat.cpp(34,35): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Programming\Test_Engine\Test_Engine\src\Test_Overheat.cpp(48,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Test_Engine.vcxproj -> C:\Programming\Test_Engine\Test_Engine\x64\Debug\Test_Engine.exe
